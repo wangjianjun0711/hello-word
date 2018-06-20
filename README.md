@@ -1,2 +1,2 @@
 # hello-word
-first helloword
+first github-helloword
